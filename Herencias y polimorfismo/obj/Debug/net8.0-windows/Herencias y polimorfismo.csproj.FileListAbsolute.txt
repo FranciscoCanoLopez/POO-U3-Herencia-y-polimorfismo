@@ -1,0 +1,20 @@
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\Herencias y polimorfismo.exe
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\Herencias y polimorfismo.deps.json
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\Herencias y polimorfismo.runtimeconfig.json
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\Herencias y polimorfismo.dll
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\Herencias y polimorfismo.pdb
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\ClassLibrary1.dll
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\bin\Debug\net8.0-windows\ClassLibrary1.pdb
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.csproj.AssemblyReference.cache
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias_y_polimorfismo.Form1.resources
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.csproj.GenerateResource.cache
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.AssemblyInfoInputs.cache
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.AssemblyInfo.cs
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencia.6D9553CD.Up2Date
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.dll
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\refint\Herencias y polimorfismo.dll
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.pdb
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\Herencias y polimorfismo.genruntimeconfig.cache
+C:\Users\volub\source\repos\Herencias y polimorfismo\Herencias y polimorfismo\obj\Debug\net8.0-windows\ref\Herencias y polimorfismo.dll
